@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "pelota",
+        "description": "pelota del mundial",
+        "price": 5000,
+        "thumbnail": "sin imagen",
+        "code": "abc123",
+        "stock": 2500
+    },
+    {
+        "id": 2,
+        "title": "camiseta",
+        "description": "camiseta selección",
+        "price": 20000,
+        "thumbnail": "sin imagen",
+        "code": "abc987",
+        "stock": 500
+    },
+    {
+        "id": 3,
+        "title": "botines",
+        "description": "botines de Messi",
+        "price": 30000,
+        "thumbnail": "sin imagen",
+        "code": "abc485",
+        "stock": 150
+    }
+]
